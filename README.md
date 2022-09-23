@@ -1,2 +1,2 @@
 # Machine Learning Projects
-This repository, contains several projects.
+This repository, contains several projects about various
