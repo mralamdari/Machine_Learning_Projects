@@ -4,4 +4,4 @@ This repository, contains several projects about various machine learning and de
 
 Like binary classification and digit recognition.
 
-And It can be a
+And It can be a good brief 
