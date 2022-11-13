@@ -4,4 +4,4 @@ This repository, contains several projects about various machine learning and de
 
 Like Binary Classification, and Digit Recognition.
 
-And It can be a good brief and informative repository to learn
+And It can be a good brief and informative repository to learn about 
