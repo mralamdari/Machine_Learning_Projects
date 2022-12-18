@@ -13,7 +13,7 @@ Create Every kind of X or O on the board, like the pictures below;
   <img height="10%" width='100%' src="https://github.com/mralamdari/Machine_Learning_Projects/blob/main/X%26O_With_MLP/2.JPG"/>
 </p> 
 
-And you can create your own samples and store it in the dataset file, like;
+And you can create your own samples and store it in the dataset.csv file, like;
 
 <p align="center">
   <img height="10%" width='100%' src="https://github.com/mralamdari/Machine_Learning_Projects/blob/main/X%26O_With_MLP/3.JPG"/>
