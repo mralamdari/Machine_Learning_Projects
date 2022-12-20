@@ -1,5 +1,6 @@
 #  Hello  guys
-In this project you will learn how to create one of the simplest neural networks called Adaline.
+In this project you will learn how to create one of the simplest neural networks called: 
+### Adaline.
 
 This application will detect the patterns on the board, this patterns consists of: X and O.
 
